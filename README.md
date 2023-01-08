@@ -1,2 +1,2 @@
 # shadow-mage
-A 2d PvE game in Turing. By Kolby Chong and Kamron Zaidi (2017).
+A 2d player v entity game developed in the Turing language for ICS201. By Kolby Chong and Kamron Zaidi (2017).
